@@ -1,0 +1,23 @@
+{
+    "name": "smolblog/package-directory",
+    "homepage": "http://packages.smolblog.org",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/smolblog/framework-foundation"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/smolblog/framework-infrastructure"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/smolblog/core"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/smolblog/core-data-sql"
+        }
+    ],
+    "require-all": true
+}
