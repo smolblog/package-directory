@@ -1,6 +1,6 @@
 {
     "name": "smolblog/package-directory",
-    "homepage": "http://packages.smolblog.org",
+    "homepage": "https://packages.smolblog.org",
     "repositories": [
         {
             "type": "vcs",
