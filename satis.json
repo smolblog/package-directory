@@ -12,6 +12,10 @@
         },
         {
             "type": "vcs",
+            "url": "https://github.com/smolblog/smolblog-markdown"
+        },
+        {
+            "type": "vcs",
             "url": "https://github.com/smolblog/core"
         },
         {
