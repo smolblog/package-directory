@@ -16,6 +16,10 @@
         },
         {
             "type": "vcs",
+            "url": "https://github.com/smolblog/tempest-psr"
+        },
+        {
+            "type": "vcs",
             "url": "https://github.com/smolblog/core"
         },
         {
