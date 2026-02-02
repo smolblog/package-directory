@@ -24,7 +24,7 @@ jobs:
 
       - id: generate-satis-repo
         name: 'Run Generate Satis Repository Action'
-        uses: mattgrul/satis-to-artifact-action@v1
+        uses: mattgrul/satis-to-artifact-action@v1.1.2
         env:
           SATIS_PATH: ${{ github.workspace }}/satis
       
