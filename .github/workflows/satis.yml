@@ -25,6 +25,8 @@ jobs:
       - id: generate-satis-repo
         name: 'Run Generate Satis Repository Action'
         uses: mattgrul/satis-to-artifact-action@v1.1.2
+        with:
+          php-version: 8.4
         env:
           SATIS_PATH: ${{ github.workspace }}/satis
       
