@@ -4,27 +4,15 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/smolblog/framework-foundation"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/smolblog/framework-infrastructure"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/smolblog/smolblog-markdown"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/smolblog/tempest-psr"
-        },
-        {
-            "type": "vcs",
             "url": "https://github.com/smolblog/core"
         },
         {
             "type": "vcs",
             "url": "https://github.com/smolblog/core-data-sql"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/smolblog/core-test-utils"
         }
     ],
     "require-all": true
